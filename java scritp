@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <h1 id="myh"></h1>
+        <p id="myp"></p>
+        <script>
+            document.getElementById("myh")innerHTML= "java script comments";
+            document.getElementById("myp")innerHTML"java script comments";
+            </script>
+    </body>
+</html>
